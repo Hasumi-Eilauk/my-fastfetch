@@ -17,4 +17,5 @@
 ```
 ## 如果你想要恢复系统logo图标将txt格式的logo文件删除即可恢复  
 ## 如果觉得显示效果不满意可以修改配置文件的显示信息需要修改config.jsonc文件  
-<img width="1793" height="982" alt="image" src="https://github.com/user-attachments/assets/37dfd2d9-392f-4d3e-a574-96d3359f2133" />
+<img width="1918" height="1056" alt="image" src="https://github.com/user-attachments/assets/b5597800-7cf7-4f27-841c-4d095e05db2b" />
+
