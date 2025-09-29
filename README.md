@@ -1,5 +1,6 @@
 ## 效果图
-<img width="1493" height="825" alt="image" src="https://github.com/user-attachments/assets/acb79a29-00e5-475c-9544-85a0d2124346" />
+<img width="1534" height="844" alt="image" src="https://github.com/user-attachments/assets/2ab10066-1c2c-4582-a638-68caafffedf1" />
+
 
 ## 如何在您的操作系统中安装fastfetch
 **[fastfetch](https://github.com/fastfetch-cli/fastfetch)**
